@@ -45,17 +45,17 @@
         </dependency>
     </dependencies>
 
-    <!-- <build>
+    <build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-    </build> -->
+    </build>
 
 
-	<build>
+	<!-- <build>
     <finalName>demo</finalName>
     <resources>
         <resource>
@@ -90,7 +90,7 @@
             </executions>
         </plugin>
     	</plugins>
- 	</build>
+ 	</build> -->
 
 
 </project>
