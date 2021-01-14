@@ -11,7 +11,7 @@ public class DemoController {
     @RequestMapping("test")
     @ResponseBody
     public String test(){
-        return "hello,test!-----------:2";
+        return "hello,test!-----------:1";
     }
     
     @RequestMapping(value = "hello",method = RequestMethod.GET )
